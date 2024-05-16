@@ -1,0 +1,11 @@
+C:\Users\coolj\OneDrive - Ozarks Technical Community College\C# Programs\Assinments\SkillCheck2\SkillCheck2\bin\Debug\netcoreapp3.1\SkillCheck2.exe
+C:\Users\coolj\OneDrive - Ozarks Technical Community College\C# Programs\Assinments\SkillCheck2\SkillCheck2\bin\Debug\netcoreapp3.1\SkillCheck2.deps.json
+C:\Users\coolj\OneDrive - Ozarks Technical Community College\C# Programs\Assinments\SkillCheck2\SkillCheck2\bin\Debug\netcoreapp3.1\SkillCheck2.runtimeconfig.json
+C:\Users\coolj\OneDrive - Ozarks Technical Community College\C# Programs\Assinments\SkillCheck2\SkillCheck2\bin\Debug\netcoreapp3.1\SkillCheck2.runtimeconfig.dev.json
+C:\Users\coolj\OneDrive - Ozarks Technical Community College\C# Programs\Assinments\SkillCheck2\SkillCheck2\bin\Debug\netcoreapp3.1\SkillCheck2.dll
+C:\Users\coolj\OneDrive - Ozarks Technical Community College\C# Programs\Assinments\SkillCheck2\SkillCheck2\bin\Debug\netcoreapp3.1\SkillCheck2.pdb
+C:\Users\coolj\OneDrive - Ozarks Technical Community College\C# Programs\Assinments\SkillCheck2\SkillCheck2\obj\Debug\netcoreapp3.1\SkillCheck2.csprojAssemblyReference.cache
+C:\Users\coolj\OneDrive - Ozarks Technical Community College\C# Programs\Assinments\SkillCheck2\SkillCheck2\obj\Debug\netcoreapp3.1\SkillCheck2.AssemblyInfoInputs.cache
+C:\Users\coolj\OneDrive - Ozarks Technical Community College\C# Programs\Assinments\SkillCheck2\SkillCheck2\obj\Debug\netcoreapp3.1\SkillCheck2.AssemblyInfo.cs
+C:\Users\coolj\OneDrive - Ozarks Technical Community College\C# Programs\Assinments\SkillCheck2\SkillCheck2\obj\Debug\netcoreapp3.1\SkillCheck2.dll
+C:\Users\coolj\OneDrive - Ozarks Technical Community College\C# Programs\Assinments\SkillCheck2\SkillCheck2\obj\Debug\netcoreapp3.1\SkillCheck2.pdb
